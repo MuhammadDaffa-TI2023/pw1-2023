@@ -1,0 +1,33 @@
+* {
+    margin: 5pxpx;
+    padding: 5px;
+}
+body {
+    background-image: url(dffa.png);
+    
+}
+h1 {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 46px;  
+    margin-top: 10px;
+} 
+fieldset, table {
+    margin: auto;
+    width: 50%;
+}
+td input[type="submit"] {
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+td input[type="reset"] {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+
+
